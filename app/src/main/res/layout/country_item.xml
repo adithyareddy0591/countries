@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="country"
+            type="com.android.adithya.countries.response.CountryResponse" />
+    </data>
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/countryCardLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:foreground="?android:selectableItemBackground"
+        app:cardBackgroundColor="@android:color/white"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true"
+        android:focusable="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/posterImageView"
+                android:layout_width="84dp"
+                android:layout_height="84dp"
+                android:scaleType="centerCrop" />
+
+            <androidx.appcompat.widget.AppCompatTextView
+                android:id="@+id/countryName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@{country.component1()}"
+                android:layout_centerVertical="true"
+                android:layout_margin="@dimen/margin"
+                android:layout_toEndOf="@+id/posterImageView"
+                android:fontFamily="sans-serif"
+                android:maxLines="1"
+                android:textAppearance="@style/TextAppearance.AppCompat.Title"
+                android:textColor="@android:color/black"
+                tools:text="Country Name" />
+
+        </RelativeLayout>
+
+    </androidx.cardview.widget.CardView>
+</layout>
+
