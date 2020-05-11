@@ -5,17 +5,17 @@ Android search using RxJava for instant search results. Various libraries such a
 
 </br></br>
 
-##Adithya Reddy
+Adithya Reddy
 </br></br>
 
-##Android Developer
-##Phone: (318) 319-0591 
-##Email: adithyareddy0591@gmail.com
-##LinkedIn: https://www.linkedin.com/in/adithya-reddy-945388126
+Android Developer
+Phone: (318) 319-0591 
+Email: adithyareddy0591@gmail.com
+LinkedIn: https://www.linkedin.com/in/adithya-reddy-945388126
 
 </br></br>
 
-##Authorized to work in the US for any employer – No Sponsorship required now or in future
+Authorized to work in the US for any employer – No Sponsorship required now or in future
 </br></br>
 
 SUMMARY
@@ -33,7 +33,7 @@ stack development.
 4. Retrofit
 
 </br></br>
-##Coding Challenge
+Coding Challenge
    </br></br>
    The Challenge
    Create an Android app called ‘Countries’ which will enable user to search countries based on
