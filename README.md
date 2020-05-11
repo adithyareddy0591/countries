@@ -9,8 +9,11 @@ Adithya Reddy
 </br></br>
 
 Android Developer
+</br>
 Phone: (318) 319-0591 
+</br>
 Email: adithyareddy0591@gmail.com
+</br>
 LinkedIn: https://www.linkedin.com/in/adithya-reddy-945388126
 
 </br></br>
