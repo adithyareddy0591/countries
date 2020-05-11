@@ -6,8 +6,7 @@ Android search using RxJava for instant search results. Various libraries such a
 </br></br>
 
 Adithya Reddy
-</br></br>
-
+</br>
 Android Developer
 </br>
 Phone: (318) 319-0591 
