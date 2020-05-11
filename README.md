@@ -7,7 +7,7 @@ Android search using RxJava for instant search results. Various libraries such a
 <a href="url"><img src="https://github.com/adithyareddy0591/countries/blob/feature/countries/home.png" align="left" height="48" width="48" ></a>
 </br></br>
 </br></br>
-<a href="url"><img src="https://github.com/adithyareddy0591/countries/blob/feature/countries/search_example_1.png" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/adithyareddy0591/countries/blob/feature/countries/search_example_1.png" align="left" height="300" width="150" ></a>
 </br></br>
 </br></br>
 <a href="url"><img src="https://github.com/adithyareddy0591/countries/blob/feature/countries/search_example_2.png" align="left" height="48" width="48" ></a></br></br>
